@@ -143,7 +143,7 @@ python-dotenv==1.0.0
 
 ## 🙋‍♂️ Author
 
-**Harish S.**  
+**Harish S**  
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harish-s2003)
 - 📫 Email: rks.harish2003@gmail.com 
